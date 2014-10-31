@@ -1,6 +1,6 @@
 """Parsers package.
 
-Author: yifeng@niara.com
+Author: yifeng
 """
 
 

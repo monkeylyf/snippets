@@ -1,6 +1,6 @@
 """Parser factory for plain text format.
 
-Author: yifeng@niara.com
+Author: yifeng
 """
 
 from abstract_parser import AbstractParser

@@ -1,6 +1,6 @@
 """Abstract parser class.
 
-Author: yifeng@niara.com
+Author: yifeng
 """
 
 from abc import ABCMeta, abstractmethod

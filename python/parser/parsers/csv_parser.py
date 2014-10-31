@@ -1,6 +1,6 @@
 """CSV parser factory.
 
-Author: yifeng@niara.com
+Author: yifeng
 """
 
 from csv import (reader, QUOTE_MINIMAL)

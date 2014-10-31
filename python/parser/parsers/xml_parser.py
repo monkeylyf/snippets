@@ -1,6 +1,6 @@
 """XML parser factory.
 
-Author: yifeng@nira.com
+Author: yifeng
 """
 
 try:
