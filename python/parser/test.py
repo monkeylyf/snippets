@@ -1,6 +1,5 @@
 """Utilities for parsers
 
-Author: yifeng@niara.com
 """
 
 from __init__ import parsed_file
