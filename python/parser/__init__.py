@@ -1,6 +1,5 @@
 """Parsers package.
 
-Author: yifeng@niara.com
 """
 
 from parsers import _get_factories
